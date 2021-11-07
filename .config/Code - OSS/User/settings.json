@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "\"editor.fontFamily\"": "\"JetBrains Mono NL\""
+    },
+    "workbench.colorTheme": "Gruvbox Material Dark",  
+    "editor.fontFamily": "'JetBrains Mono NL'",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "security.workspace.trust.enabled": false
