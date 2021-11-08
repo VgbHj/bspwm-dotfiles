@@ -138,3 +138,7 @@ super + l
 
 super + shift + l
 	bash ~/.config/i3lock/lock.sh && systemctl suspend
+
+#nautilus
+super + n
+	nautilus
